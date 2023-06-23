@@ -8,3 +8,6 @@ https://www.npmjs.com/package/styled-components
 
 Для створення форм
 https://www.npmjs.com/package/formik
+
+Для валідації форм
+https://www.npmjs.com/package/yup
