@@ -16,3 +16,6 @@ https://www.npmjs.com/package/yup
 https://www.npmjs.com/package/axios
 
 Для створення маршрутизації "react-router-dom"
+
+Для додавання іконок з React-бібліотеки "react-icons"
+https://react-icons.github.io/react-icons/
