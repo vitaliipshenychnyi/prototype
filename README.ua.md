@@ -6,8 +6,13 @@ https://www.npmjs.com/package/prop-types
 Для стилізації компонентів "styled-components"
 https://www.npmjs.com/package/styled-components
 
-Для створення форм
+Для створення форм "formik"
 https://www.npmjs.com/package/formik
 
-Для валідації форм
+Для валідації форм "yup"
 https://www.npmjs.com/package/yup
+
+Для формування запитів та обробки результатів "axios"
+https://www.npmjs.com/package/axios
+
+Для створення маршрутизації "react-router-dom"
